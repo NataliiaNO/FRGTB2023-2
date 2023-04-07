@@ -1,0 +1,20 @@
+.header{
+    background-color: rgba(251, 242, 228, 0.5);
+    display: flex;
+}
+
+/*  */
+
+.contacts{
+    margin: 30px;
+}
+.photo{
+    margin: 30px;
+}
+
+.main-part{
+    display: flex;
+}
+.all-skills{
+    display: flex;
+}
